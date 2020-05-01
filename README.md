@@ -16,3 +16,7 @@ The purpose of this project was to analyse how hollywood movies have evolved and
 
 Conclusion is :
 
+![wordhuray](https://github.com/kameswari609/ETL_Kameswari-_Aparna_ucsd/blob/master/images/wordcloud2.png)
+
+
+The word Love is the most commonly used word in movie titles. Girl, Day and Man are also among the most commonly occuring words. this tells us the presence of romance in movies pretty well.
