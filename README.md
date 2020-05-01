@@ -1,6 +1,9 @@
 # ETL_Kameswari-_Aparna_ucsd
 ucsd bootcamp 2020 etl project , analysing movies data set form kaggle.
 
+project members are :-   aparna , nick 
+
+
 the data set is from 
 
 https://www.kaggle.com/rounakbanik/the-movies-dataset
@@ -13,8 +16,8 @@ https://www.kaggle.com/tmdb/tmdb-movie-metadata
 
 
 ### Summary : holllywood movie analysis
-## The purpose of this project was to analyse how hollywood movies have evolved and stats to look at the history..
- ## Conclusion is :
+# The purpose of this project was to analyse how hollywood movies have evolved and stats to look at the history..
+# Conclusion is :
 
 ![wordhuray](https://github.com/kameswari609/ETL_Kameswari-_Aparna_ucsd/blob/master/images/wordcloud2.png)
 
@@ -37,7 +40,9 @@ millions and we can see The Scarlet Letter has the highest budget. </p>
   in Movie Blurbs. so most popular themes present in movies are love,Girl,Life</p>
 
 
- ## Some More :
+![somemorecharts](https://github.com/kameswari609/ETL_Kameswari-_Aparna_ucsd/blob/master/images/language.png)
+
+ # Some More :
 <p> Most Critically Acclaimed Movies conclusion The Shawshank Redemption and The Godfather are the two most critically 
   acclaimed movies </p>
 
